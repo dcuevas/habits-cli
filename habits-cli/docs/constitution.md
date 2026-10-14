@@ -1,4 +1,4 @@
-# Constitución — habits-cli
+# Constitución de habits-cli
 
 Principios innegociables. Toda spec, plan y tarea debe cumplirlos.
 
